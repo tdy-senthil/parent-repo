@@ -1,3 +1,6 @@
 [submodule "ChildApps/ChildOne"]
 	path = ChildApps/ChildOne
 	url = https://github.com/tdy-senthil/child-one-repo.git
+[submodule "ChildApps/ChildTwo"]
+	path = ChildApps/ChildTwo
+	url = https://github.com/tdy-senthil/child-two-repo.git
