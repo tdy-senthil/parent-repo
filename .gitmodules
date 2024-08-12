@@ -1,0 +1,3 @@
+[submodule "ChildApps/ChildOne"]
+	path = ChildApps/ChildOne
+	url = https://github.com/tdy-senthil/child-one-repo.git
